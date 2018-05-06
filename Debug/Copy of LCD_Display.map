@@ -1,0 +1,2478 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+                              ./UART.o (__itoa)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+                              ./UART.o (strlen)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o) (__utoa)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_exit)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+                              /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o) (_kill)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                              ./touch.o (ADCIntEnable)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                              ./LCD_stairs.o (FPUEnable)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                              ./Kentec320x240x16_ssd2119_spi.o (GPIOPinWrite)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o) (IntRegister)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                              ./Kentec320x240x16_ssd2119_spi.o (SSIConfigSetExpClk)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./Kentec320x240x16_ssd2119_spi.o (SysCtlPeripheralEnable)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                              ./touch.o (TimerEnable)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                              ./UART.o (UARTConfigSetExpClk)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+                              ./LCD_stairs.o (GrContextInit)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+                              ./LCD.o (g_sFontCm12)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+                              ./LCD.o (g_sFontCm14)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+                              ./LCD_stairs.o (g_sFontCm16)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+                              ./touch_isr.o (g_sFontCm20)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+                              ./LCD.o (GrLineDrawH)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+                              ./touch_isr.o (RectangularButtonMsgProc)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o) (GrRectDraw)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+                              ./touch_isr.o (SliderMsgProc)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                              ./LCD.o (GrStringDraw)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o) (WidgetDefaultMsgProc)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o) (GrMapISO8859_1_Unicode)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o) (GrCircleDraw)
+/home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+                              /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o) (GrImageDraw)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+                              ./UART.o (__aeabi_dsub)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+                              ./UART.o (__aeabi_dmul)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_cmpdf2.o)
+                              ./UART.o (__aeabi_dcmplt)
+/home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+                              ./UART.o (__aeabi_d2iz)
+
+Allocating common symbols
+Common symbol       size              file
+
+Rect_ch2            0x8               ./touch_isr.o
+Rect_t2             0x8               ./LCD.o
+__lock___atexit_recursive_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+Rect_t1             0x8               ./LCD.o
+Rect_TB2            0x8               ./touch_isr.o
+__lock___arc4random_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+sRect               0x8               ./LCD.o
+RectL_ch2           0x8               ./LCD.o
+string              0x64              ./UART.o
+__lock___env_recursive_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+Rect_R              0x8               ./LCD.o
+sContext            0x2c              ./LCD.o
+__lock___malloc_recursive_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+Rect_TB1            0x8               ./touch_isr.o
+g_i16TouchX         0x2               ./touch.o
+g_pi32ParmSet       0x4               ./touch.o
+str_left            0xa               ./LCD.o
+str_time            0xa               ./LCD.o
+RectR_ch2           0x8               ./LCD.o
+Rect_M              0x8               ./LCD.o
+Rect_ch1            0x8               ./touch_isr.o
+diff                0x4               ./LCD.o
+__lock___at_quick_exit_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+g_i16TouchY         0x2               ./touch.o
+str_right           0xa               ./LCD.o
+__lock___dd_hash_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+Rect_L              0x8               ./LCD.o
+ui32SysClock        0x4               ./LCD.o
+__lock___sfp_recursive_mutex
+                    0x1               /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./Kentec320x240x16_ssd2119_spi.o
+LOAD ./LCD.o
+LOAD ./LCD_stairs.o
+LOAD ./UART.o
+LOAD ./images.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+LOAD ./touch.o
+LOAD ./touch_isr.o
+LOAD ./ustdlib.o
+                0x0000000000000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x0000000000000000      0x26c
+ *(.intvecs)
+ .intvecs       0x0000000000000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                g_pfnVectors
+                0x0000000020000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000000000000280     0x9ecc
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000000000000280        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x0000000000000280       0x6c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000000002ec       0x74 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000000000002ec                _mainCRTStartup
+                0x00000000000002ec                _start
+ .text          0x0000000000000360        0x0 ./Kentec320x240x16_ssd2119_spi.o
+ .text          0x0000000000000360        0x0 ./LCD.o
+ .text          0x0000000000000360        0x0 ./LCD_stairs.o
+ .text          0x0000000000000360        0x0 ./UART.o
+ .text          0x0000000000000360        0x0 ./images.o
+ .text          0x0000000000000360        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000000000000360        0x0 ./touch.o
+ .text          0x0000000000000360        0x0 ./touch_isr.o
+ .text          0x0000000000000360        0x0 ./ustdlib.o
+ .text          0x0000000000000360        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000360        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000360        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .text          0x0000000000000360        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+ .text          0x0000000000000360        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ *fill*         0x0000000000000360       0x20 
+ .text          0x0000000000000380       0xdc /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+                0x0000000000000380                strlen
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+ .text          0x000000000000045c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ .text          0x000000000000045c      0x370 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+                0x000000000000045c                __aeabi_drsub
+                0x0000000000000464                __aeabi_dsub
+                0x0000000000000464                __subdf3
+                0x0000000000000468                __adddf3
+                0x0000000000000468                __aeabi_dadd
+                0x00000000000006e0                __aeabi_ui2d
+                0x00000000000006e0                __floatunsidf
+                0x0000000000000700                __floatsidf
+                0x0000000000000700                __aeabi_i2d
+                0x0000000000000724                __extendsfdf2
+                0x0000000000000724                __aeabi_f2d
+                0x0000000000000760                __aeabi_ul2d
+                0x0000000000000760                __floatundidf
+                0x0000000000000770                __floatdidf
+                0x0000000000000770                __aeabi_l2d
+ .text          0x00000000000007cc      0x424 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+                0x00000000000007cc                __aeabi_dmul
+                0x00000000000007cc                __muldf3
+                0x0000000000000a20                __aeabi_ddiv
+                0x0000000000000a20                __divdf3
+ .text          0x0000000000000bf0      0x110 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000000bf0                __gtdf2
+                0x0000000000000bf0                __gedf2
+                0x0000000000000bf8                __ltdf2
+                0x0000000000000bf8                __ledf2
+                0x0000000000000c00                __cmpdf2
+                0x0000000000000c00                __eqdf2
+                0x0000000000000c00                __nedf2
+                0x0000000000000c7c                __aeabi_cdrcmple
+                0x0000000000000c8c                __aeabi_cdcmple
+                0x0000000000000c8c                __aeabi_cdcmpeq
+                0x0000000000000c9c                __aeabi_dcmpeq
+                0x0000000000000cb0                __aeabi_dcmplt
+                0x0000000000000cc4                __aeabi_dcmple
+                0x0000000000000cd8                __aeabi_dcmpge
+                0x0000000000000cec                __aeabi_dcmpgt
+ .text          0x0000000000000d00       0x50 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+                0x0000000000000d00                __fixdfsi
+                0x0000000000000d00                __aeabi_d2iz
+ .text          0x0000000000000d50        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000000000000d50        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.text.*)
+ .text.LED_ON   0x0000000000000d50       0x18 ./Kentec320x240x16_ssd2119_spi.o
+ .text.LED_OFF  0x0000000000000d68       0x18 ./Kentec320x240x16_ssd2119_spi.o
+ .text.WriteDataSPI
+                0x0000000000000d80       0x68 ./Kentec320x240x16_ssd2119_spi.o
+ .text.WriteCommandSPI
+                0x0000000000000de8       0x64 ./Kentec320x240x16_ssd2119_spi.o
+ .text.InitSPILCDInterface
+                0x0000000000000e4c      0x100 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119Init
+                0x0000000000000f4c      0x1f8 ./Kentec320x240x16_ssd2119_spi.o
+                0x0000000000000f4c                Kentec320x240x16_SSD2119Init
+ .text.Kentec320x240x16_SSD2119PixelDraw
+                0x0000000000001144       0x54 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119PixelDrawMultiple
+                0x0000000000001198      0x258 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119LineDrawH
+                0x00000000000013f0       0x70 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119LineDrawV
+                0x0000000000001460       0x70 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119RectFill
+                0x00000000000014d0      0x130 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119ColorTranslate
+                0x0000000000001600       0x32 ./Kentec320x240x16_ssd2119_spi.o
+ .text.Kentec320x240x16_SSD2119Flush
+                0x0000000000001632       0x14 ./Kentec320x240x16_ssd2119_spi.o
+ *fill*         0x0000000000001646        0x2 
+ .text.print_time
+                0x0000000000001648      0x250 ./LCD.o
+                0x0000000000001648                print_time
+ .text.print_time_ch2
+                0x0000000000001898      0x2cc ./LCD.o
+                0x0000000000001898                print_time_ch2
+ .text.clear_screen_grid
+                0x0000000000001b64      0x23c ./LCD.o
+                0x0000000000001b64                clear_screen_grid
+ .text.print_waveform1_ch1
+                0x0000000000001da0      0x19c ./LCD.o
+                0x0000000000001da0                print_waveform1_ch1
+ .text.print_waveform_ch1
+                0x0000000000001f3c      0x22c ./LCD.o
+                0x0000000000001f3c                print_waveform_ch1
+ .text.print_waveform_ch2
+                0x0000000000002168      0x210 ./LCD.o
+                0x0000000000002168                print_waveform_ch2
+ .text.print_waveform_ch2_black
+                0x0000000000002378      0x20c ./LCD.o
+                0x0000000000002378                print_waveform_ch2_black
+ .text.prev_init
+                0x0000000000002584       0x50 ./LCD.o
+                0x0000000000002584                prev_init
+ .text.ADCgetdata
+                0x00000000000025d4       0xf8 ./LCD_stairs.o
+                0x00000000000025d4                ADCgetdata
+ .text.ADCEnable
+                0x00000000000026cc       0x64 ./LCD_stairs.o
+                0x00000000000026cc                ADCEnable
+ .text.main     0x0000000000002730      0x390 ./LCD_stairs.o
+                0x0000000000002730                main
+ .text.UARTIntHandler
+                0x0000000000002ac0       0xa0 ./UART.o
+                0x0000000000002ac0                UARTIntHandler
+ .text.UART_init
+                0x0000000000002b60       0x64 ./UART.o
+                0x0000000000002b60                UART_init
+ .text.UART_get_string
+                0x0000000000002bc4       0x44 ./UART.o
+                0x0000000000002bc4                UART_get_string
+ .text.UART_string
+                0x0000000000002c08       0x30 ./UART.o
+                0x0000000000002c08                UART_string
+ .text.UART_integer_digit
+                0x0000000000002c38       0x58 ./UART.o
+                0x0000000000002c38                UART_integer_digit
+ .text.UART_integer
+                0x0000000000002c90       0x28 ./UART.o
+                0x0000000000002c90                UART_integer
+ .text.UART_newline
+                0x0000000000002cb8       0x1c ./UART.o
+                0x0000000000002cb8                UART_newline
+ .text.UART_Htab
+                0x0000000000002cd4       0x14 ./UART.o
+                0x0000000000002cd4                UART_Htab
+ .text.UART_float
+                0x0000000000002ce8      0x130 ./UART.o
+                0x0000000000002ce8                UART_float
+ .text.UARTwrite
+                0x0000000000002e18       0x50 ./UART.o
+                0x0000000000002e18                UARTwrite
+ .text.UARTvprintf
+                0x0000000000002e68      0x410 ./UART.o
+                0x0000000000002e68                UARTvprintf
+ .text.UARTprintf
+                0x0000000000003278       0x24 ./UART.o
+                0x0000000000003278                UARTprintf
+ .text.ResetISR
+                0x000000000000329c       0x6c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x000000000000329c                ResetISR
+ .text.NmiSR    0x0000000000003308        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x000000000000330e        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000003314        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x000000000000331a        0x2 
+ .text.TouchScreenDebouncer
+                0x000000000000331c      0x28c ./touch.o
+ .text.TouchScreenIntHandler
+                0x00000000000035a8      0x188 ./touch.o
+                0x00000000000035a8                TouchScreenIntHandler
+ .text.TouchScreenInit
+                0x0000000000003730      0x128 ./touch.o
+                0x0000000000003730                TouchScreenInit
+ .text.TouchScreenCallbackSet
+                0x0000000000003858       0x20 ./touch.o
+                0x0000000000003858                TouchScreenCallbackSet
+ .text.move_slider_press_ch1
+                0x0000000000003878      0x39c ./touch_isr.o
+                0x0000000000003878                move_slider_press_ch1
+ .text.move_slider_press_ch2
+                0x0000000000003c14      0x378 ./touch_isr.o
+                0x0000000000003c14                move_slider_press_ch2
+ .text.start_press
+                0x0000000000003f8c      0x174 ./touch_isr.o
+                0x0000000000003f8c                start_press
+ .text.plus_press
+                0x0000000000004100      0x110 ./touch_isr.o
+                0x0000000000004100                plus_press
+ .text.minus_press
+                0x0000000000004210      0x10c ./touch_isr.o
+                0x0000000000004210                minus_press
+ .text.increase_press
+                0x000000000000431c      0x14c ./touch_isr.o
+                0x000000000000431c                increase_press
+ .text.decrease_press
+                0x0000000000004468      0x150 ./touch_isr.o
+                0x0000000000004468                decrease_press
+ .text.ustrncpy
+                0x00000000000045b8       0x6a ./ustdlib.o
+                0x00000000000045b8                ustrncpy
+ *fill*         0x0000000000004622        0x2 
+ .text.uvsnprintf
+                0x0000000000004624      0x504 ./ustdlib.o
+                0x0000000000004624                uvsnprintf
+ .text.usprintf
+                0x0000000000004b28       0x30 ./ustdlib.o
+                0x0000000000004b28                usprintf
+ .text.usnprintf
+                0x0000000000004b58       0x30 ./ustdlib.o
+                0x0000000000004b58                usnprintf
+ .text.ulocaltime
+                0x0000000000004b88      0x17c ./ustdlib.o
+                0x0000000000004b88                ulocaltime
+ .text.ucmptime
+                0x0000000000004d04       0xe4 ./ustdlib.o
+ .text.umktime  0x0000000000004de8       0x8c ./ustdlib.o
+                0x0000000000004de8                umktime
+ .text.ustrtoul
+                0x0000000000004e74      0x150 ./ustdlib.o
+                0x0000000000004e74                ustrtoul
+ .text.ustrtof  0x0000000000004fc4      0x274 ./ustdlib.o
+                0x0000000000004fc4                ustrtof
+ .text.ustrlen  0x0000000000005238       0x2e ./ustdlib.o
+                0x0000000000005238                ustrlen
+ .text.ustrstr  0x0000000000005266       0x40 ./ustdlib.o
+                0x0000000000005266                ustrstr
+ .text.ustrncasecmp
+                0x00000000000052a6       0xa2 ./ustdlib.o
+                0x00000000000052a6                ustrncasecmp
+ .text.ustrcasecmp
+                0x0000000000005348       0x20 ./ustdlib.o
+                0x0000000000005348                ustrcasecmp
+ .text.ustrncmp
+                0x0000000000005368       0x6a ./ustdlib.o
+                0x0000000000005368                ustrncmp
+ .text.ustrcmp  0x00000000000053d2       0x20 ./ustdlib.o
+                0x00000000000053d2                ustrcmp
+ *fill*         0x00000000000053f2        0x2 
+ .text.usrand   0x00000000000053f4       0x20 ./ustdlib.o
+                0x00000000000053f4                usrand
+ .text.urand    0x0000000000005414       0x30 ./ustdlib.o
+                0x0000000000005414                urand
+ .text.exit     0x0000000000005444       0x20 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                0x0000000000005444                exit
+ .text.__libc_init_array
+                0x0000000000005464       0x50 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                0x0000000000005464                __libc_init_array
+ .text.__itoa   0x00000000000054b4       0x30 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+                0x00000000000054b4                __itoa
+ .text.itoa     0x00000000000054e4        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+                0x00000000000054e4                itoa
+ .text.memset   0x00000000000054e8       0x9c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                0x00000000000054e8                memset
+ .text.__utoa   0x0000000000005584       0x80 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+                0x0000000000005584                __utoa
+ .text.utoa     0x0000000000005604        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+                0x0000000000005604                utoa
+ .text.startup.register_fini
+                0x0000000000005608       0x14 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x000000000000561c       0xe8 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x000000000000561c                __call_exitprocs
+ .text.atexit   0x0000000000005704        0xc /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                0x0000000000005704                atexit
+ .text.__libc_fini_array
+                0x0000000000005710       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                0x0000000000005710                __libc_fini_array
+ .text.__retarget_lock_init
+                0x0000000000005744        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005744                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x0000000000005748        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005748                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x000000000000574c        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x000000000000574c                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000000000005750        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005750                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000000005754        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005754                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000005758        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005758                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x000000000000575c        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x000000000000575c                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000005760        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005760                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000000005764        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005764                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x0000000000005768        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000005768                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x000000000000576c       0xc4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                0x000000000000576c                __register_exitproc
+ .text._exit    0x0000000000005830        0x8 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+                0x0000000000005830                _exit
+ .text._kill    0x0000000000005838       0x20 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+                0x0000000000005838                _kill
+ .text._ADCIntNumberGet
+                0x0000000000005858       0x54 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+ .text.ADCIntRegister
+                0x00000000000058ac       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x00000000000058ac                ADCIntRegister
+ .text.ADCIntUnregister
+                0x00000000000058c6       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x00000000000058c6                ADCIntUnregister
+ .text.ADCIntDisable
+                0x00000000000058dc       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x00000000000058dc                ADCIntDisable
+ .text.ADCIntEnable
+                0x00000000000058ec       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x00000000000058ec                ADCIntEnable
+ .text.ADCIntStatus
+                0x00000000000058fc       0x34 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x00000000000058fc                ADCIntStatus
+ .text.ADCIntClear
+                0x0000000000005930        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005930                ADCIntClear
+ .text.ADCSequenceEnable
+                0x000000000000593a        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x000000000000593a                ADCSequenceEnable
+ .text.ADCSequenceDisable
+                0x0000000000005948       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005948                ADCSequenceDisable
+ .text.ADCSequenceConfigure
+                0x0000000000005958       0x54 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005958                ADCSequenceConfigure
+ .text.ADCSequenceStepConfigure
+                0x00000000000059ac       0x84 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x00000000000059ac                ADCSequenceStepConfigure
+ .text.ADCSequenceOverflow
+                0x0000000000005a30        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a30                ADCSequenceOverflow
+ .text.ADCSequenceOverflowClear
+                0x0000000000005a3c        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a3c                ADCSequenceOverflowClear
+ .text.ADCSequenceUnderflow
+                0x0000000000005a46        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a46                ADCSequenceUnderflow
+ .text.ADCSequenceUnderflowClear
+                0x0000000000005a52        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a52                ADCSequenceUnderflowClear
+ .text.ADCSequenceDataGet
+                0x0000000000005a5c       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a5c                ADCSequenceDataGet
+ .text.ADCProcessorTrigger
+                0x0000000000005a7a       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a7a                ADCProcessorTrigger
+ *fill*         0x0000000000005a92        0x2 
+ .text.ADCSoftwareOversampleConfigure
+                0x0000000000005a94       0x28 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005a94                ADCSoftwareOversampleConfigure
+ .text.ADCSoftwareOversampleStepConfigure
+                0x0000000000005abc       0x8c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005abc                ADCSoftwareOversampleStepConfigure
+ .text.ADCSoftwareOversampleDataGet
+                0x0000000000005b48       0x48 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005b48                ADCSoftwareOversampleDataGet
+ .text.ADCHardwareOversampleConfigure
+                0x0000000000005b90       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005b90                ADCHardwareOversampleConfigure
+ .text.ADCComparatorConfigure
+                0x0000000000005ba0        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005ba0                ADCComparatorConfigure
+ .text.ADCComparatorRegionSet
+                0x0000000000005baa        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005baa                ADCComparatorRegionSet
+ .text.ADCComparatorReset
+                0x0000000000005bb8       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005bb8                ADCComparatorReset
+ .text.ADCComparatorIntDisable
+                0x0000000000005bd6       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005bd6                ADCComparatorIntDisable
+ .text.ADCComparatorIntEnable
+                0x0000000000005be8       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005be8                ADCComparatorIntEnable
+ .text.ADCComparatorIntStatus
+                0x0000000000005bf8        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005bf8                ADCComparatorIntStatus
+ .text.ADCComparatorIntClear
+                0x0000000000005bfc        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005bfc                ADCComparatorIntClear
+ .text.ADCIntDisableEx
+                0x0000000000005c00        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c00                ADCIntDisableEx
+ .text.ADCIntEnableEx
+                0x0000000000005c0a        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c0a                ADCIntEnableEx
+ .text.ADCIntStatusEx
+                0x0000000000005c12       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c12                ADCIntStatusEx
+ .text.ADCIntClearEx
+                0x0000000000005c24        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c24                ADCIntClearEx
+ .text.ADCReferenceSet
+                0x0000000000005c28        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c28                ADCReferenceSet
+ .text.ADCReferenceGet
+                0x0000000000005c34        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c34                ADCReferenceGet
+ .text.ADCPhaseDelaySet
+                0x0000000000005c3c        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c3c                ADCPhaseDelaySet
+ .text.ADCPhaseDelayGet
+                0x0000000000005c40        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c40                ADCPhaseDelayGet
+ .text.ADCSequenceDMAEnable
+                0x0000000000005c44       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c44                ADCSequenceDMAEnable
+ .text.ADCSequenceDMADisable
+                0x0000000000005c54       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c54                ADCSequenceDMADisable
+ .text.ADCBusy  0x0000000000005c66        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c66                ADCBusy
+ .text.ADCClockConfigSet
+                0x0000000000005c6e       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c6e                ADCClockConfigSet
+ .text.ADCClockConfigGet
+                0x0000000000005c86       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                0x0000000000005c86                ADCClockConfigGet
+ .text.FPUEnable
+                0x0000000000005ca4       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005ca4                FPUEnable
+ .text.FPUDisable
+                0x0000000000005cb4       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005cb4                FPUDisable
+ .text.FPUStackingEnable
+                0x0000000000005cc4       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005cc4                FPUStackingEnable
+ .text.FPULazyStackingEnable
+                0x0000000000005cd8       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005cd8                FPULazyStackingEnable
+ .text.FPUStackingDisable
+                0x0000000000005ce8       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005ce8                FPUStackingDisable
+ .text.FPUHalfPrecisionModeSet
+                0x0000000000005cf8       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005cf8                FPUHalfPrecisionModeSet
+ .text.FPUNaNModeSet
+                0x0000000000005d0c       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005d0c                FPUNaNModeSet
+ .text.FPUFlushToZeroModeSet
+                0x0000000000005d20       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005d20                FPUFlushToZeroModeSet
+ .text.FPURoundingModeSet
+                0x0000000000005d34       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+                0x0000000000005d34                FPURoundingModeSet
+ .text._GPIOIntNumberGet
+                0x0000000000005d48       0x48 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeSet
+                0x0000000000005d90       0x2e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000005d90                GPIODirModeSet
+ .text.GPIODirModeGet
+                0x0000000000005dbe       0x24 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000005dbe                GPIODirModeGet
+ .text.GPIOIntTypeSet
+                0x0000000000005de2       0x5a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000005de2                GPIOIntTypeSet
+ .text.GPIOIntTypeGet
+                0x0000000000005e3c       0x4a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000005e3c                GPIOIntTypeGet
+ .text.GPIOPadConfigSet
+                0x0000000000005e86      0x130 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000005e86                GPIOPadConfigSet
+ .text.GPIOPadConfigGet
+                0x0000000000005fb6       0xc4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000005fb6                GPIOPadConfigGet
+ .text.GPIOIntEnable
+                0x000000000000607a        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000607a                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x0000000000006086        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006086                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x0000000000006094        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006094                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00000000000060a2        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000060a2                GPIOIntClear
+ .text.GPIOIntRegister
+                0x00000000000060a8       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000060a8                GPIOIntRegister
+ .text.GPIOIntUnregister
+                0x00000000000060c2       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000060c2                GPIOIntUnregister
+ .text.GPIOIntRegisterPin
+                0x00000000000060d8       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000060d8                GPIOIntRegisterPin
+ .text.GPIOIntUnregisterPin
+                0x00000000000060f6       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000060f6                GPIOIntUnregisterPin
+ .text.GPIOPinRead
+                0x0000000000006110        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006110                GPIOPinRead
+ .text.GPIOPinWrite
+                0x0000000000006116        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006116                GPIOPinWrite
+ .text.GPIOPinTypeADC
+                0x000000000000611c       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000611c                GPIOPinTypeADC
+ .text.GPIOPinTypeCAN
+                0x0000000000006138       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006138                GPIOPinTypeCAN
+ .text.GPIOPinTypeComparator
+                0x0000000000006154       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006154                GPIOPinTypeComparator
+ .text.GPIOPinTypeComparatorOutput
+                0x0000000000006170       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006170                GPIOPinTypeComparatorOutput
+ .text.GPIOPinTypeDIVSCLK
+                0x000000000000618c       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000618c                GPIOPinTypeDIVSCLK
+ .text.GPIOPinTypeEPI
+                0x00000000000061a8       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000061a8                GPIOPinTypeEPI
+ .text.GPIOPinTypeEthernetLED
+                0x00000000000061c4       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000061c4                GPIOPinTypeEthernetLED
+ .text.GPIOPinTypeEthernetMII
+                0x00000000000061e0       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000061e0                GPIOPinTypeEthernetMII
+ .text.GPIOPinTypeGPIOInput
+                0x00000000000061fc       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000061fc                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x0000000000006218       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006218                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeGPIOOutputOD
+                0x0000000000006234       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006234                GPIOPinTypeGPIOOutputOD
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x0000000000006250       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006250                GPIOPinTypeHibernateRTCCLK
+ .text.GPIOPinTypeI2C
+                0x000000000000626c       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000626c                GPIOPinTypeI2C
+ .text.GPIOPinTypeI2CSCL
+                0x0000000000006288       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006288                GPIOPinTypeI2CSCL
+ .text.GPIOPinTypeLCD
+                0x00000000000062a4       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000062a4                GPIOPinTypeLCD
+ .text.GPIOPinTypeOneWire
+                0x00000000000062c0       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000062c0                GPIOPinTypeOneWire
+ .text.GPIOPinTypePWM
+                0x00000000000062dc       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000062dc                GPIOPinTypePWM
+ .text.GPIOPinTypeQEI
+                0x00000000000062f8       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000062f8                GPIOPinTypeQEI
+ .text.GPIOPinTypeSSI
+                0x0000000000006314       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006314                GPIOPinTypeSSI
+ .text.GPIOPinTypeTimer
+                0x0000000000006330       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006330                GPIOPinTypeTimer
+ .text.GPIOPinTypeTrace
+                0x000000000000634c       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000634c                GPIOPinTypeTrace
+ .text.GPIOPinTypeUART
+                0x0000000000006368       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006368                GPIOPinTypeUART
+ .text.GPIOPinTypeUSBAnalog
+                0x0000000000006384       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006384                GPIOPinTypeUSBAnalog
+ .text.GPIOPinTypeUSBDigital
+                0x00000000000063a0       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000063a0                GPIOPinTypeUSBDigital
+ .text.GPIOPinTypeWakeHigh
+                0x00000000000063bc       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000063bc                GPIOPinTypeWakeHigh
+ .text.GPIOPinTypeWakeLow
+                0x00000000000063da       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000063da                GPIOPinTypeWakeLow
+ .text.GPIOPinWakeStatus
+                0x00000000000063f8        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000063f8                GPIOPinWakeStatus
+ *fill*         0x00000000000063fe        0x2 
+ .text.GPIOPinConfigure
+                0x0000000000006400       0x4c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006400                GPIOPinConfigure
+ .text.GPIODMATriggerEnable
+                0x000000000000644c        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000644c                GPIODMATriggerEnable
+ .text.GPIODMATriggerDisable
+                0x0000000000006458        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006458                GPIODMATriggerDisable
+ .text.GPIOADCTriggerEnable
+                0x0000000000006466        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006466                GPIOADCTriggerEnable
+ .text.GPIOADCTriggerDisable
+                0x0000000000006472        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000006472                GPIOADCTriggerDisable
+ .text._IntDefaultHandler
+                0x0000000000006480        0x2 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000006482        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006482                IntMasterEnable
+ .text.IntMasterDisable
+                0x0000000000006490        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006490                IntMasterDisable
+ *fill*         0x000000000000649e        0x2 
+ .text.IntRegister
+                0x00000000000064a0       0x34 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000064a0                IntRegister
+ .text.IntUnregister
+                0x00000000000064d4       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000064d4                IntUnregister
+ .text.IntPriorityGroupingSet
+                0x00000000000064e8       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000064e8                IntPriorityGroupingSet
+ .text.IntPriorityGroupingGet
+                0x0000000000006504       0x24 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006504                IntPriorityGroupingGet
+ .text.IntPrioritySet
+                0x0000000000006528       0x2c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006528                IntPrioritySet
+ .text.IntPriorityGet
+                0x0000000000006554       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006554                IntPriorityGet
+ .text.IntEnable
+                0x0000000000006570       0x60 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006570                IntEnable
+ .text.IntDisable
+                0x00000000000065d0       0x60 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000065d0                IntDisable
+ .text.IntIsEnabled
+                0x0000000000006630       0x64 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006630                IntIsEnabled
+ .text.IntPendSet
+                0x0000000000006694       0x50 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006694                IntPendSet
+ .text.IntPendClear
+                0x00000000000066e4       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000066e4                IntPendClear
+ .text.IntPriorityMaskSet
+                0x0000000000006724        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006724                IntPriorityMaskSet
+ .text.IntPriorityMaskGet
+                0x0000000000006728        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000006728                IntPriorityMaskGet
+ .text.IntTrigger
+                0x000000000000672c        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000000000000672c                IntTrigger
+ .text._SSIIntNumberGet
+                0x0000000000006738       0x44 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .text.SSIConfigSetExpClk
+                0x000000000000677c       0x3c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000677c                SSIConfigSetExpClk
+ .text.SSIEnable
+                0x00000000000067b8        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000067b8                SSIEnable
+ .text.SSIDisable
+                0x00000000000067c2        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000067c2                SSIDisable
+ .text.SSIIntRegister
+                0x00000000000067cc       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000067cc                SSIIntRegister
+ .text.SSIIntUnregister
+                0x00000000000067e6       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000067e6                SSIIntUnregister
+ .text.SSIIntEnable
+                0x00000000000067fc        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000067fc                SSIIntEnable
+ .text.SSIIntDisable
+                0x0000000000006804        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006804                SSIIntDisable
+ .text.SSIIntStatus
+                0x000000000000680e        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000680e                SSIIntStatus
+ .text.SSIIntClear
+                0x0000000000006818        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006818                SSIIntClear
+ .text.SSIDataPut
+                0x000000000000681c        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000681c                SSIDataPut
+ .text.SSIDataPutNonBlocking
+                0x0000000000006826       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006826                SSIDataPutNonBlocking
+ .text.SSIDataGet
+                0x0000000000006838        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006838                SSIDataGet
+ .text.SSIDataGetNonBlocking
+                0x0000000000006844       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006844                SSIDataGetNonBlocking
+ .text.SSIDMAEnable
+                0x0000000000006858        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006858                SSIDMAEnable
+ .text.SSIDMADisable
+                0x0000000000006860        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006860                SSIDMADisable
+ .text.SSIBusy  0x000000000000686a        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000686a                SSIBusy
+ .text.SSIClockSourceSet
+                0x0000000000006872        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006872                SSIClockSourceSet
+ .text.SSIClockSourceGet
+                0x0000000000006878        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x0000000000006878                SSIClockSourceGet
+ .text.SSIAdvModeSet
+                0x000000000000687e        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000687e                SSIAdvModeSet
+ .text.SSIAdvDataPutFrameEnd
+                0x000000000000688a       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000688a                SSIAdvDataPutFrameEnd
+ .text.SSIAdvDataPutFrameEndNonBlocking
+                0x000000000000689c       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x000000000000689c                SSIAdvDataPutFrameEndNonBlocking
+ .text.SSIAdvFrameHoldEnable
+                0x00000000000068b6        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000068b6                SSIAdvFrameHoldEnable
+ .text.SSIAdvFrameHoldDisable
+                0x00000000000068c0        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+                0x00000000000068c0                SSIAdvFrameHoldDisable
+ *fill*         0x00000000000068ca        0x2 
+ .text._SysCtlMemTimingGet
+                0x00000000000068cc       0x24 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x00000000000068f0       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000068f0                SysCtlSRAMSizeGet
+ .text.SysCtlFlashSizeGet
+                0x0000000000006900       0x3c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006900                SysCtlFlashSizeGet
+ .text.SysCtlFlashSectorSizeGet
+                0x000000000000693c       0x38 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000693c                SysCtlFlashSectorSizeGet
+ .text.SysCtlPeripheralPresent
+                0x0000000000006974       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006974                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralReady
+                0x000000000000699a       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000699a                SysCtlPeripheralReady
+ .text.SysCtlPeripheralPowerOn
+                0x00000000000069c0       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000069c0                SysCtlPeripheralPowerOn
+ .text.SysCtlPeripheralPowerOff
+                0x00000000000069e2       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000069e2                SysCtlPeripheralPowerOff
+ .text.SysCtlPeripheralReset
+                0x0000000000006a04       0x3a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006a04                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x0000000000006a3e       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006a3e                SysCtlPeripheralEnable
+ .text.SysCtlPeripheralDisable
+                0x0000000000006a60       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006a60                SysCtlPeripheralDisable
+ .text.SysCtlPeripheralSleepEnable
+                0x0000000000006a82       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006a82                SysCtlPeripheralSleepEnable
+ .text.SysCtlPeripheralSleepDisable
+                0x0000000000006aa4       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006aa4                SysCtlPeripheralSleepDisable
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x0000000000006ac6       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006ac6                SysCtlPeripheralDeepSleepEnable
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x0000000000006ae8       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006ae8                SysCtlPeripheralDeepSleepDisable
+ *fill*         0x0000000000006b0a        0x2 
+ .text.SysCtlPeripheralClockGating
+                0x0000000000006b0c       0x48 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006b0c                SysCtlPeripheralClockGating
+ .text.SysCtlIntRegister
+                0x0000000000006b54       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006b54                SysCtlIntRegister
+ .text.SysCtlIntUnregister
+                0x0000000000006b68       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006b68                SysCtlIntUnregister
+ *fill*         0x0000000000006b7a        0x2 
+ .text.SysCtlIntEnable
+                0x0000000000006b7c       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006b7c                SysCtlIntEnable
+ .text.SysCtlIntDisable
+                0x0000000000006b8c       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006b8c                SysCtlIntDisable
+ .text.SysCtlIntClear
+                0x0000000000006b9c        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006b9c                SysCtlIntClear
+ .text.SysCtlIntStatus
+                0x0000000000006ba8       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006ba8                SysCtlIntStatus
+ .text.SysCtlLDOSleepSet
+                0x0000000000006bbc        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006bbc                SysCtlLDOSleepSet
+ .text.SysCtlLDOSleepGet
+                0x0000000000006bc8        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006bc8                SysCtlLDOSleepGet
+ .text.SysCtlLDODeepSleepSet
+                0x0000000000006bd4        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006bd4                SysCtlLDODeepSleepSet
+ .text.SysCtlLDODeepSleepGet
+                0x0000000000006be0        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006be0                SysCtlLDODeepSleepGet
+ .text.SysCtlSleepPowerSet
+                0x0000000000006bec        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006bec                SysCtlSleepPowerSet
+ .text.SysCtlDeepSleepPowerSet
+                0x0000000000006bf8        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006bf8                SysCtlDeepSleepPowerSet
+ .text.SysCtlReset
+                0x0000000000006c04       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c04                SysCtlReset
+ .text.SysCtlSleep
+                0x0000000000006c14        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c14                SysCtlSleep
+ .text.SysCtlDeepSleep
+                0x0000000000006c18       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c18                SysCtlDeepSleep
+ .text.SysCtlResetCauseGet
+                0x0000000000006c38        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c38                SysCtlResetCauseGet
+ .text.SysCtlResetCauseClear
+                0x0000000000006c44       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c44                SysCtlResetCauseClear
+ .text.SysCtlDelay
+                0x0000000000006c54        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c54                SysCtlDelay
+ .text.SysCtlMOSCConfigSet
+                0x0000000000006c5c        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c5c                SysCtlMOSCConfigSet
+ .text.SysCtlPIOSCCalibrate
+                0x0000000000006c68       0x48 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006c68                SysCtlPIOSCCalibrate
+ .text.SysCtlResetBehaviorSet
+                0x0000000000006cb0        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006cb0                SysCtlResetBehaviorSet
+ .text.SysCtlResetBehaviorGet
+                0x0000000000006cbc        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006cbc                SysCtlResetBehaviorGet
+ .text.SysCtlClockFreqSet
+                0x0000000000006cc8      0x248 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006cc8                SysCtlClockFreqSet
+ .text.SysCtlClockSet
+                0x0000000000006f10      0x11c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000006f10                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x000000000000702c      0x12c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000702c                SysCtlClockGet
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000007158        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007158                SysCtlDeepSleepClockSet
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000000000007164       0x60 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007164                SysCtlDeepSleepClockConfigSet
+ .text.SysCtlPWMClockSet
+                0x00000000000071c4       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000071c4                SysCtlPWMClockSet
+ .text.SysCtlPWMClockGet
+                0x00000000000071d8       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000071d8                SysCtlPWMClockGet
+ .text.SysCtlGPIOAHBEnable
+                0x00000000000071f0       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000071f0                SysCtlGPIOAHBEnable
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000007208       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007208                SysCtlGPIOAHBDisable
+ .text.SysCtlUSBPLLEnable
+                0x0000000000007224       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007224                SysCtlUSBPLLEnable
+ .text.SysCtlUSBPLLDisable
+                0x0000000000007234       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007234                SysCtlUSBPLLDisable
+ .text.SysCtlVoltageEventConfig
+                0x0000000000007244        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007244                SysCtlVoltageEventConfig
+ .text.SysCtlVoltageEventStatus
+                0x0000000000007250        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007250                SysCtlVoltageEventStatus
+ .text.SysCtlVoltageEventClear
+                0x000000000000725c       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000725c                SysCtlVoltageEventClear
+ .text.SysCtlVCOGet
+                0x000000000000726c       0x78 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000726c                SysCtlVCOGet
+ .text.SysCtlNMIStatus
+                0x00000000000072e4        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000072e4                SysCtlNMIStatus
+ .text.SysCtlNMIClear
+                0x00000000000072f0       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000072f0                SysCtlNMIClear
+ .text.SysCtlClockOutConfig
+                0x0000000000007300       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007300                SysCtlClockOutConfig
+ .text.SysCtlAltClkConfig
+                0x0000000000007310        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000007310                SysCtlAltClkConfig
+ .text._TimerIntNumberGet
+                0x000000000000731c       0x50 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .text.TimerEnable
+                0x000000000000736c       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000736c                TimerEnable
+ .text.TimerDisable
+                0x000000000000737c       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000737c                TimerDisable
+ .text.TimerConfigure
+                0x000000000000738c       0x58 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000738c                TimerConfigure
+ .text.TimerControlLevel
+                0x00000000000073e4       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000073e4                TimerControlLevel
+ *fill*         0x0000000000007402        0x2 
+ .text.TimerControlTrigger
+                0x0000000000007404       0x54 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007404                TimerControlTrigger
+ .text.TimerControlEvent
+                0x0000000000007458       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007458                TimerControlEvent
+ .text.TimerControlStall
+                0x000000000000746c       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000746c                TimerControlStall
+ .text.TimerControlWaitOnTrigger
+                0x000000000000748a       0x2e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000748a                TimerControlWaitOnTrigger
+ .text.TimerRTCEnable
+                0x00000000000074b8        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074b8                TimerRTCEnable
+ .text.TimerRTCDisable
+                0x00000000000074c2        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074c2                TimerRTCDisable
+ .text.TimerClockSourceSet
+                0x00000000000074cc        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074cc                TimerClockSourceSet
+ .text.TimerClockSourceGet
+                0x00000000000074d2        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074d2                TimerClockSourceGet
+ .text.TimerPrescaleSet
+                0x00000000000074d8       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074d8                TimerPrescaleSet
+ .text.TimerPrescaleGet
+                0x00000000000074ea        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074ea                TimerPrescaleGet
+ .text.TimerPrescaleMatchSet
+                0x00000000000074f4       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000074f4                TimerPrescaleMatchSet
+ .text.TimerPrescaleMatchGet
+                0x0000000000007506        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007506                TimerPrescaleMatchGet
+ .text.TimerLoadSet
+                0x0000000000007510       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007510                TimerLoadSet
+ .text.TimerLoadGet
+                0x0000000000007522        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007522                TimerLoadGet
+ .text.TimerLoadSet64
+                0x000000000000752c        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000752c                TimerLoadSet64
+ .text.TimerLoadGet64
+                0x0000000000007532       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007532                TimerLoadGet64
+ .text.TimerValueGet
+                0x000000000000754a        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000754a                TimerValueGet
+ .text.TimerValueGet64
+                0x0000000000007554       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007554                TimerValueGet64
+ .text.TimerMatchSet
+                0x000000000000756c       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000756c                TimerMatchSet
+ .text.TimerMatchGet
+                0x000000000000757e        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000757e                TimerMatchGet
+ .text.TimerMatchSet64
+                0x0000000000007588        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007588                TimerMatchSet64
+ .text.TimerMatchGet64
+                0x000000000000758e       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000758e                TimerMatchGet64
+ .text.TimerIntRegister
+                0x00000000000075a6       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075a6                TimerIntRegister
+ .text.TimerIntUnregister
+                0x00000000000075c0       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075c0                TimerIntUnregister
+ .text.TimerIntEnable
+                0x00000000000075d6        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075d6                TimerIntEnable
+ .text.TimerIntDisable
+                0x00000000000075de        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075de                TimerIntDisable
+ .text.TimerIntStatus
+                0x00000000000075e8        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075e8                TimerIntStatus
+ .text.TimerIntClear
+                0x00000000000075f2        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075f2                TimerIntClear
+ .text.TimerSynchronize
+                0x00000000000075f6        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075f6                TimerSynchronize
+ .text.TimerADCEventSet
+                0x00000000000075fa        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075fa                TimerADCEventSet
+ .text.TimerADCEventGet
+                0x00000000000075fe        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x00000000000075fe                TimerADCEventGet
+ .text.TimerDMAEventSet
+                0x0000000000007602        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007602                TimerDMAEventSet
+ .text.TimerDMAEventGet
+                0x0000000000007606        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x0000000000007606                TimerDMAEventGet
+ .text.TimerUpdateMode
+                0x000000000000760a       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+                0x000000000000760a                TimerUpdateMode
+ .text._UARTIntNumberGet
+                0x0000000000007630       0x44 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x0000000000007674        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007674                UARTParityModeSet
+ .text.UARTParityModeGet
+                0x0000000000007680        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007680                UARTParityModeGet
+ .text.UARTFIFOLevelSet
+                0x0000000000007688        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007688                UARTFIFOLevelSet
+ .text.UARTFIFOLevelGet
+                0x000000000000768e       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000768e                UARTFIFOLevelGet
+ .text.UARTConfigGetExpClk
+                0x000000000000769e       0x28 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000769e                UARTConfigGetExpClk
+ .text.UARTEnable
+                0x00000000000076c6       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000076c6                UARTEnable
+ .text.UARTDisable
+                0x00000000000076dc       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000076dc                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x00000000000076f8       0x48 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000076f8                UARTConfigSetExpClk
+ .text.UARTFIFOEnable
+                0x0000000000007740        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007740                UARTFIFOEnable
+ .text.UARTFIFODisable
+                0x000000000000774a        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000774a                UARTFIFODisable
+ .text.UARTEnableSIR
+                0x0000000000007754       0x12 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007754                UARTEnableSIR
+ .text.UARTDisableSIR
+                0x0000000000007766        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007766                UARTDisableSIR
+ .text.UARTSmartCardEnable
+                0x0000000000007770       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007770                UARTSmartCardEnable
+ .text.UARTSmartCardDisable
+                0x0000000000007786        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007786                UARTSmartCardDisable
+ .text.UARTModemControlSet
+                0x0000000000007790        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007790                UARTModemControlSet
+ .text.UARTModemControlClear
+                0x000000000000779c        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000779c                UARTModemControlClear
+ .text.UARTModemControlGet
+                0x00000000000077aa        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077aa                UARTModemControlGet
+ .text.UARTModemStatusGet
+                0x00000000000077b2        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077b2                UARTModemStatusGet
+ .text.UARTFlowControlSet
+                0x00000000000077bc        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077bc                UARTFlowControlSet
+ .text.UARTFlowControlGet
+                0x00000000000077c8        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077c8                UARTFlowControlGet
+ .text.UARTTxIntModeSet
+                0x00000000000077d0        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077d0                UARTTxIntModeSet
+ .text.UARTTxIntModeGet
+                0x00000000000077dc        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077dc                UARTTxIntModeGet
+ .text.UARTCharsAvail
+                0x00000000000077e4        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077e4                UARTCharsAvail
+ .text.UARTSpaceAvail
+                0x00000000000077f0        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077f0                UARTSpaceAvail
+ .text.UARTCharGetNonBlocking
+                0x00000000000077fc        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000077fc                UARTCharGetNonBlocking
+ .text.UARTCharGet
+                0x000000000000780a        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000780a                UARTCharGet
+ .text.UARTCharPutNonBlocking
+                0x0000000000007814       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007814                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x0000000000007824        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007824                UARTCharPut
+ .text.UARTBreakCtl
+                0x000000000000782e       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000782e                UARTBreakCtl
+ .text.UARTBusy
+                0x0000000000007844        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007844                UARTBusy
+ .text.UARTIntRegister
+                0x000000000000784c       0x1a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000784c                UARTIntRegister
+ .text.UARTIntUnregister
+                0x0000000000007866       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007866                UARTIntUnregister
+ .text.UARTIntEnable
+                0x000000000000787c        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000787c                UARTIntEnable
+ .text.UARTIntDisable
+                0x0000000000007884        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007884                UARTIntDisable
+ .text.UARTIntStatus
+                0x000000000000788e        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000788e                UARTIntStatus
+ .text.UARTIntClear
+                0x0000000000007898        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000007898                UARTIntClear
+ .text.UARTDMAEnable
+                0x000000000000789c        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000789c                UARTDMAEnable
+ .text.UARTDMADisable
+                0x00000000000078a4        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078a4                UARTDMADisable
+ .text.UARTRxErrorGet
+                0x00000000000078ae        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078ae                UARTRxErrorGet
+ .text.UARTRxErrorClear
+                0x00000000000078b6        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078b6                UARTRxErrorClear
+ .text.UARTClockSourceSet
+                0x00000000000078bc        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078bc                UARTClockSourceSet
+ .text.UARTClockSourceGet
+                0x00000000000078c2        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078c2                UARTClockSourceGet
+ .text.UART9BitEnable
+                0x00000000000078c8        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078c8                UART9BitEnable
+ .text.UART9BitDisable
+                0x00000000000078d6        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078d6                UART9BitDisable
+ .text.UART9BitAddrSet
+                0x00000000000078e4        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078e4                UART9BitAddrSet
+ .text.UART9BitAddrSend
+                0x00000000000078ee       0x2c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000078ee                UART9BitAddrSend
+ .text.UARTLoopbackEnable
+                0x000000000000791a        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000791a                UARTLoopbackEnable
+ .text.CPUcpsid
+                0x0000000000007924        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000007924                CPUcpsid
+ .text.CPUprimask
+                0x000000000000792c        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x000000000000792c                CPUprimask
+ .text.CPUcpsie
+                0x0000000000007932        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000007932                CPUcpsie
+ .text.CPUwfi   0x000000000000793a        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x000000000000793a                CPUwfi
+ .text.CPUbasepriSet
+                0x000000000000793e        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x000000000000793e                CPUbasepriSet
+ .text.CPUbasepriGet
+                0x0000000000007944        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000007944                CPUbasepriGet
+ *fill*         0x000000000000794a        0x2 
+ .text.GrLibInit
+                0x000000000000794c        0xc /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+                0x000000000000794c                GrLibInit
+ .text.GrContextInit
+                0x0000000000007958       0x6c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+                0x0000000000007958                GrContextInit
+ .text.GrContextClipRegionSet
+                0x00000000000079c4       0x62 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+                0x00000000000079c4                GrContextClipRegionSet
+ .text.GrClipCodeGet
+                0x0000000000007a26       0x36 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+ .text.GrLineDrawH
+                0x0000000000007a5c       0x46 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+                0x0000000000007a5c                GrLineDrawH
+ .text.GrLineDrawV
+                0x0000000000007aa2       0x46 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+                0x0000000000007aa2                GrLineDrawV
+ .text.GrLineDraw
+                0x0000000000007ae8      0x176 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+                0x0000000000007ae8                GrLineDraw
+ .text.CircularButtonPaint
+                0x0000000000007c5e      0x15a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .text.CircularButtonMsgProc
+                0x0000000000007db8       0xf2 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+                0x0000000000007db8                CircularButtonMsgProc
+ .text.RectangularButtonPaint
+                0x0000000000007eaa      0x160 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .text.RectangularButtonMsgProc
+                0x000000000000800a      0x10c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+                0x000000000000800a                RectangularButtonMsgProc
+ *fill*         0x0000000000008116        0x2 
+ .text.RectangularButtonInit
+                0x0000000000008118       0x3c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+                0x0000000000008118                RectangularButtonInit
+ .text.CircularButtonInit
+                0x0000000000008154       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+                0x0000000000008154                CircularButtonInit
+ .text.GrRectDraw
+                0x0000000000008194       0x66 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+                0x0000000000008194                GrRectDraw
+ .text.GrRectFill
+                0x00000000000081fa       0xb8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+                0x00000000000081fa                GrRectFill
+ .text.GrRectOverlapCheck
+                0x00000000000082b2       0x3a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+                0x00000000000082b2                GrRectOverlapCheck
+ .text.GrRectIntersectGet
+                0x00000000000082ec       0x70 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+                0x00000000000082ec                GrRectIntersectGet
+ .text.SliderValueToPosition
+                0x000000000000835c       0x96 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .text.SliderPaint
+                0x00000000000083f2      0x2b2 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .text.SliderMsgProc
+                0x00000000000086a4      0x148 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+                0x00000000000086a4                SliderMsgProc
+ .text.SliderInit
+                0x00000000000087ec       0x3c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+                0x00000000000087ec                SliderInit
+ .text.GrStringDraw
+                0x0000000000008828       0x16 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008828                GrStringDraw
+ .text.GrStringNextCharGet
+                0x000000000000883e       0x28 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x000000000000883e                GrStringNextCharGet
+ .text.GrFontGlyphRender
+                0x0000000000008866      0x27c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008866                GrFontGlyphRender
+ .text.GrFontInfoGet
+                0x0000000000008ae2       0x38 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008ae2                GrFontInfoGet
+ .text.GrFontBaselineGet
+                0x0000000000008b1a       0x2c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008b1a                GrFontBaselineGet
+ .text.GrFontHeightGet
+                0x0000000000008b46       0x2c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008b46                GrFontHeightGet
+ .text.GrFontMaxWidthGet
+                0x0000000000008b72       0x2c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008b72                GrFontMaxWidthGet
+ .text.GrFontGlyphDataGet
+                0x0000000000008b9e       0x90 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008b9e                GrFontGlyphDataGet
+ .text.GrDefaultStringRenderer
+                0x0000000000008c2e       0xb8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008c2e                GrDefaultStringRenderer
+ .text.GrStringWidthGet
+                0x0000000000008ce6       0x6a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008ce6                GrStringWidthGet
+ .text.GrFontCodepageGet
+                0x0000000000008d50       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008d50                GrFontCodepageGet
+ .text.UpdateContextCharMapping
+                0x0000000000008d76       0x44 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .text.GrFontNumBlocksGet
+                0x0000000000008dba       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008dba                GrFontNumBlocksGet
+ .text.GrFontBlockCodepointsGet
+                0x0000000000008de0       0x5c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008de0                GrFontBlockCodepointsGet
+ .text.GrCodepageMapTableSet
+                0x0000000000008e3c        0xa /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008e3c                GrCodepageMapTableSet
+ .text.GrStringCodepageSet
+                0x0000000000008e46        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008e46                GrStringCodepageSet
+ .text.GrContextFontSet
+                0x0000000000008e4c        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008e4c                GrContextFontSet
+ *fill*         0x0000000000008e52        0x2 
+ .text.GrStringTableSet
+                0x0000000000008e54       0x3c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008e54                GrStringTableSet
+ .text.GrStringLanguageSet
+                0x0000000000008e90       0x38 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008e90                GrStringLanguageSet
+ .text.GrStringGet
+                0x0000000000008ec8      0x258 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+                0x0000000000008ec8                GrStringGet
+ .text.WidgetIsInTree
+                0x0000000000009120       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .text.WidgetDefaultMsgProc
+                0x0000000000009146        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x0000000000009146                WidgetDefaultMsgProc
+ .text.WidgetMutexInit
+                0x000000000000914a        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x000000000000914a                WidgetMutexInit
+ .text.WidgetMutexGet
+                0x0000000000009150       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x0000000000009150                WidgetMutexGet
+ .text.WidgetMutexPut
+                0x0000000000009164        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x0000000000009164                WidgetMutexPut
+ .text.WidgetAdd
+                0x000000000000916a       0x1e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x000000000000916a                WidgetAdd
+ .text.WidgetRemove
+                0x0000000000009188       0x4c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x0000000000009188                WidgetRemove
+ .text.WidgetMessageSendPreOrder
+                0x00000000000091d4       0x58 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x00000000000091d4                WidgetMessageSendPreOrder
+ .text.WidgetMessageSendPostOrder
+                0x000000000000922c       0x98 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x000000000000922c                WidgetMessageSendPostOrder
+ .text.WidgetMessageQueueAdd
+                0x00000000000092c4       0xd4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x00000000000092c4                WidgetMessageQueueAdd
+ .text.WidgetMessageQueueProcess
+                0x0000000000009398       0x54 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x0000000000009398                WidgetMessageQueueProcess
+ .text.WidgetPointerMessage
+                0x00000000000093ec       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x00000000000093ec                WidgetPointerMessage
+ .text.GrMapUTF16_Unicode
+                0x000000000000940c       0x84 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+ .text.GrMapISO8859_1_Unicode
+                0x0000000000009490        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009490                GrMapISO8859_1_Unicode
+ .text.GrMapISO8859_2_Unicode
+                0x0000000000009498       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009498                GrMapISO8859_2_Unicode
+ .text.GrMapISO8859_3_Unicode
+                0x00000000000094b0       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000094b0                GrMapISO8859_3_Unicode
+ .text.GrMapISO8859_4_Unicode
+                0x00000000000094c8       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000094c8                GrMapISO8859_4_Unicode
+ .text.GrMapISO8859_5_Unicode
+                0x00000000000094e0       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000094e0                GrMapISO8859_5_Unicode
+ .text.GrMapISO8859_6_Unicode
+                0x00000000000094f0       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000094f0                GrMapISO8859_6_Unicode
+ .text.GrMapISO8859_7_Unicode
+                0x0000000000009504       0x24 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009504                GrMapISO8859_7_Unicode
+ .text.GrMapISO8859_8_Unicode
+                0x0000000000009528       0x26 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009528                GrMapISO8859_8_Unicode
+ .text.GrMapISO8859_9_Unicode
+                0x000000000000954e       0x46 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000954e                GrMapISO8859_9_Unicode
+ .text.GrMapISO8859_10_Unicode
+                0x0000000000009594       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009594                GrMapISO8859_10_Unicode
+ .text.GrMapISO8859_11_Unicode
+                0x00000000000095ac       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000095ac                GrMapISO8859_11_Unicode
+ .text.GrMapISO8859_13_Unicode
+                0x00000000000095bc       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000095bc                GrMapISO8859_13_Unicode
+ .text.GrMapISO8859_14_Unicode
+                0x00000000000095d4       0x58 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000095d4                GrMapISO8859_14_Unicode
+ .text.GrMapISO8859_15_Unicode
+                0x000000000000962c       0x5a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000962c                GrMapISO8859_15_Unicode
+ *fill*         0x0000000000009686        0x2 
+ .text.GrMapISO8859_16_Unicode
+                0x0000000000009688       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009688                GrMapISO8859_16_Unicode
+ .text.GrMapUTF8_Unicode
+                0x00000000000096a0       0x7c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000096a0                GrMapUTF8_Unicode
+ .text.GrMapUTF16LE_Unicode
+                0x000000000000971c        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000971c                GrMapUTF16LE_Unicode
+ .text.GrMapUTF16BE_Unicode
+                0x0000000000009722        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009722                GrMapUTF16BE_Unicode
+ .text.GrMapUnicode_Unicode
+                0x0000000000009728       0x22 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009728                GrMapUnicode_Unicode
+ *fill*         0x000000000000974a        0x2 
+ .text.GrMapWIN1250_Unicode
+                0x000000000000974c       0x18 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000974c                GrMapWIN1250_Unicode
+ .text.GrMapWIN1251_Unicode
+                0x0000000000009764       0x28 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x0000000000009764                GrMapWIN1251_Unicode
+ .text.GrMapWIN1252_Unicode
+                0x000000000000978c       0x1c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000978c                GrMapWIN1252_Unicode
+ .text.GrMapWIN1253_Unicode
+                0x00000000000097a8       0x28 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000097a8                GrMapWIN1253_Unicode
+ .text.GrMapWIN1254_Unicode
+                0x00000000000097d0       0x24 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x00000000000097d0                GrMapWIN1254_Unicode
+ .text.GrCircleDraw
+                0x00000000000097f4      0x1da /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+                0x00000000000097f4                GrCircleDraw
+ .text.GrCircleFill
+                0x00000000000099ce      0x11e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+                0x00000000000099ce                GrCircleFill
+ .text.PixelTransparentDraw
+                0x0000000000009aec      0x272 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ *fill*         0x0000000000009d5e        0x2 
+ .text.InternalImageDraw
+                0x0000000000009d60      0x3a8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ .text.GrTransparentImageDraw
+                0x000000000000a108       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+                0x000000000000a108                GrTransparentImageDraw
+ .text.GrImageDraw
+                0x000000000000a118        0xe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+                0x000000000000a118                GrImageDraw
+                0x000000000000a128                . = ALIGN (0x4)
+ *fill*         0x000000000000a126        0x2 
+ *(.ctors)
+                0x000000000000a128                . = ALIGN (0x4)
+ *(.dtors)
+                0x000000000000a128                . = ALIGN (0x4)
+                0x000000000000a128                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x000000000000a128        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array.00000
+                0x000000000000a12c        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x000000000000a130                __init_array_end = .
+ *(.init)
+ .init          0x000000000000a130        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x000000000000a130                _init
+ .init          0x000000000000a134        0x8 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini*)
+ .fini          0x000000000000a13c        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x000000000000a13c                _fini
+ .fini_array    0x000000000000a140        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini          0x000000000000a144        0x8 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.glue_7         0x000000000000a14c        0x0
+ .glue_7        0x000000000000a14c        0x0 linker stubs
+
+.glue_7t        0x000000000000a14c        0x0
+ .glue_7t       0x000000000000a14c        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000a14c        0x0
+ .vfp11_veneer  0x000000000000a14c        0x0 linker stubs
+
+.v4_bx          0x000000000000a14c        0x0
+ .v4_bx         0x000000000000a14c        0x0 linker stubs
+
+.iplt           0x000000000000a14c        0x0
+ .iplt          0x000000000000a14c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x000000000000a14c     0x529c
+ *(.rodata)
+ .rodata        0x000000000000a14c       0x12 ./LCD.o
+ *fill*         0x000000000000a15e        0x2 
+ .rodata        0x000000000000a160       0x22 ./LCD_stairs.o
+ *fill*         0x000000000000a182        0x2 
+ .rodata        0x000000000000a184       0x1e ./UART.o
+ *fill*         0x000000000000a1a2        0x2 
+ .rodata        0x000000000000a1a4       0x1e ./touch_isr.o
+ *fill*         0x000000000000a1c2        0x2 
+ .rodata        0x000000000000a1c4       0x1a ./ustdlib.o
+ *(.rodata*)
+ *fill*         0x000000000000a1de        0x2 
+ .rodata.g_sKentec320x240x16_SSD2119
+                0x000000000000a1e0       0x28 ./Kentec320x240x16_ssd2119_spi.o
+                0x000000000000a1e0                g_sKentec320x240x16_SSD2119
+ .rodata.g_pcHex
+                0x000000000000a208        0x4 ./UART.o
+ .rodata.g_pui8Logo
+                0x000000000000a20c      0x230 ./images.o
+                0x000000000000a20c                g_pui8Logo
+ .rodata.g_pui8LightOff
+                0x000000000000a43c       0xf5 ./images.o
+                0x000000000000a43c                g_pui8LightOff
+ *fill*         0x000000000000a531        0x3 
+ .rodata.g_pui8LightOn
+                0x000000000000a534       0xe6 ./images.o
+                0x000000000000a534                g_pui8LightOn
+ *fill*         0x000000000000a61a        0x2 
+ .rodata.g_pui8Blue50x50
+                0x000000000000a61c      0x210 ./images.o
+                0x000000000000a61c                g_pui8Blue50x50
+ .rodata.g_pui8Blue50x50Press
+                0x000000000000a82c      0x20e ./images.o
+                0x000000000000a82c                g_pui8Blue50x50Press
+ *fill*         0x000000000000aa3a        0x2 
+ .rodata.g_pui8GettingHotter28x148
+                0x000000000000aa3c      0x705 ./images.o
+                0x000000000000aa3c                g_pui8GettingHotter28x148
+ *fill*         0x000000000000b141        0x3 
+ .rodata.g_pui8GettingHotter28x148Mono
+                0x000000000000b144      0x3ad ./images.o
+                0x000000000000b144                g_pui8GettingHotter28x148Mono
+ *fill*         0x000000000000b4f1        0x3 
+ .rodata.g_pui8GreenSlider195x37
+                0x000000000000b4f4      0x826 ./images.o
+                0x000000000000b4f4                g_pui8GreenSlider195x37
+ *fill*         0x000000000000bd1a        0x2 
+ .rodata.g_pui8RedSlider195x37
+                0x000000000000bd1c      0x83d ./images.o
+                0x000000000000bd1c                g_pui8RedSlider195x37
+ *fill*         0x000000000000c559        0x3 
+ .rodata.g_pi32TouchParameters
+                0x000000000000c55c       0x1c ./touch.o
+                0x000000000000c55c                g_pi32TouchParameters
+ .rodata.g_pcHex
+                0x000000000000c578        0x4 ./ustdlib.o
+ .rodata.g_psDaysToMonth
+                0x000000000000c57c       0x30 ./ustdlib.o
+ .rodata.g_pfExponents
+                0x000000000000c5ac       0x18 ./ustdlib.o
+ .rodata._global_impure_ptr
+                0x000000000000c5c4        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x000000000000c5c4                _global_impure_ptr
+ .rodata.__utoa.str1.4
+                0x000000000000c5c8       0x28 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+                                         0x25 (size before relaxing)
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x000000000000c5f0       0xd8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x000000000000c6c8       0x90 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x000000000000c758       0xc0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32Priority
+                0x000000000000c818       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x000000000000c838       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x000000000000c84c       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x000000000000c860       0x9c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x000000000000c8fc       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x000000000000c910       0x14 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_ppui32SSIIntMap
+                0x000000000000c924       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .rodata.g_ppui32SSIIntMapSnowflake
+                0x000000000000c944       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x000000000000c964      0x1b0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x000000000000cb14        0x8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x000000000000cb1c       0x30 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x000000000000cb4c       0x6c /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_ppui32TimerIntMapSnowflake
+                0x000000000000cbb8       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .rodata.g_ppui32TimerIntMap
+                0x000000000000cbf8       0x60 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .rodata.g_ppui32UARTIntMap
+                0x000000000000cc58       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x000000000000cc98       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_psDefaultCodePointMapTable
+                0x000000000000ccd8       0x10 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+                0x000000000000ccd8                g_psDefaultCodePointMapTable
+ .rodata.g_sFontCm12
+                0x000000000000cce8       0xc8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+                0x000000000000cce8                g_sFontCm12
+ .rodata.g_pui8Cm12Data
+                0x000000000000cdb0      0x55f /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+ *fill*         0x000000000000d30f        0x1 
+ .rodata.g_sFontCm14
+                0x000000000000d310       0xc8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+                0x000000000000d310                g_sFontCm14
+ .rodata.g_pui8Cm14Data
+                0x000000000000d3d8      0x65a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+ *fill*         0x000000000000da32        0x2 
+ .rodata.g_sFontCm16
+                0x000000000000da34       0xc8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+                0x000000000000da34                g_sFontCm16
+ .rodata.g_pui8Cm16Data
+                0x000000000000dafc      0x759 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+ .rodata.g_pui8Cm20Data
+                0x000000000000e255      0x95e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+ *fill*         0x000000000000ebb3        0x1 
+ .rodata.g_sFontCm20
+                0x000000000000ebb4       0xc8 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+                0x000000000000ebb4                g_sFontCm20
+ .rodata.g_pui16ISO8859_2_Unicode
+                0x000000000000ec7c       0xbe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000ec7c                g_pui16ISO8859_2_Unicode
+ .rodata.g_pui16ISO8859_13_Unicode
+                0x000000000000ed3a       0xbe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000ed3a                g_pui16ISO8859_13_Unicode
+ .rodata.g_pui16WIN1250_Unicode
+                0x000000000000edf8      0x100 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000edf8                g_pui16WIN1250_Unicode
+ .rodata.g_pui16ISO8859_7_Unicode
+                0x000000000000eef8       0x3a /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000eef8                g_pui16ISO8859_7_Unicode
+ .rodata.g_pui16WIN1253_Unicode
+                0x000000000000ef32       0x80 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000ef32                g_pui16WIN1253_Unicode
+ .rodata.g_pui16WIN1252_Unicode
+                0x000000000000efb2       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000efb2                g_pui16WIN1252_Unicode
+ .rodata.g_pui16ISO8859_3_Unicode
+                0x000000000000eff2       0xbe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000eff2                g_pui16ISO8859_3_Unicode
+ .rodata.g_pui16ISO8859_16_Unicode
+                0x000000000000f0b0       0xbe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000f0b0                g_pui16ISO8859_16_Unicode
+ .rodata.g_pui16WIN1251_Unicode
+                0x000000000000f16e       0x80 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000f16e                g_pui16WIN1251_Unicode
+ .rodata.g_pui16ISO8859_14_Unicode
+                0x000000000000f1ee       0x3e /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000f1ee                g_pui16ISO8859_14_Unicode
+ .rodata.g_pui16ISO8859_10_Unicode
+                0x000000000000f22c       0xbe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000f22c                g_pui16ISO8859_10_Unicode
+ .rodata.g_pui16WIN1254_Unicode
+                0x000000000000f2ea       0x40 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000f2ea                g_pui16WIN1254_Unicode
+ .rodata.g_pui16ISO8859_4_Unicode
+                0x000000000000f32a       0xbe /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+                0x000000000000f32a                g_pui16ISO8859_4_Unicode
+
+.eh_frame       0x000000000000f3e8        0x4
+ .eh_frame      0x000000000000f3e8        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x000000000000f3e8        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.data           0x0000000020000000     0x2844 load address 0x000000000000f3ec
+                0x000000000000f3ec                __data_load__ = LOADADDR (.data)
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000020000000        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x0000000020000004        0x0 ./Kentec320x240x16_ssd2119_spi.o
+ .data          0x0000000020000004        0x0 ./LCD.o
+ .data          0x0000000020000004        0x0 ./LCD_stairs.o
+ .data          0x0000000020000004        0x0 ./UART.o
+ .data          0x0000000020000004        0x0 ./images.o
+ .data          0x0000000020000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x0000000020000004        0x0 ./touch.o
+ .data          0x0000000020000004        0x0 ./touch_isr.o
+ .data          0x0000000020000004        0x0 ./ustdlib.o
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000020000004        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.data*)
+ .data.data_ch  0x0000000020000004       0xa0 ./LCD.o
+                0x0000000020000004                data_ch
+ .data.data_ch_prev
+                0x00000000200000a4       0xa0 ./LCD.o
+                0x00000000200000a4                data_ch_prev
+ .data.Y_max    0x0000000020000144        0x4 ./LCD.o
+                0x0000000020000144                Y_max
+ .data.Y_min    0x0000000020000148        0x4 ./LCD.o
+                0x0000000020000148                Y_min
+ .data.print_right
+                0x000000002000014c        0x4 ./LCD.o
+                0x000000002000014c                print_right
+ .data.print_right_ch2
+                0x0000000020000150        0x4 ./LCD.o
+                0x0000000020000150                print_right_ch2
+ .data.prev_step
+                0x0000000020000154        0x4 ./LCD.o
+                0x0000000020000154                prev_step
+ .data.prev_step_ch2
+                0x0000000020000158        0x4 ./LCD.o
+                0x0000000020000158                prev_step_ch2
+ .data.time_interval
+                0x000000002000015c        0x4 ./LCD.o
+                0x000000002000015c                time_interval
+ .data.data1    0x0000000020000160        0x4 ./LCD_stairs.o
+                0x0000000020000160                data1
+ .data.data2    0x0000000020000164        0x4 ./LCD_stairs.o
+                0x0000000020000164                data2
+ .data.temp_set
+                0x0000000020000168        0x4 ./UART.o
+                0x0000000020000168                temp_set
+ .data.g_i16TouchMin
+                0x000000002000016c        0x2 ./touch.o
+                0x000000002000016c                g_i16TouchMin
+ *fill*         0x000000002000016e        0x2 
+ .data.time_interval_step
+                0x0000000020000170       0x14 ./touch_isr.o
+                0x0000000020000170                time_interval_step
+ .data.print_interval_step
+                0x0000000020000184       0x14 ./touch_isr.o
+                0x0000000020000184                print_interval_step
+ .data.time_print_flag
+                0x0000000020000198        0x1 ./touch_isr.o
+                0x0000000020000198                time_print_flag
+ .data.time_print_flag_ch2
+                0x0000000020000199        0x1 ./touch_isr.o
+                0x0000000020000199                time_print_flag_ch2
+ *fill*         0x000000002000019a        0x2 
+ .data.step     0x000000002000019c        0x4 ./touch_isr.o
+                0x000000002000019c                step
+ .data.increase
+                0x00000000200001a0       0x50 ./touch_isr.o
+                0x00000000200001a0                increase
+ .data.decrease
+                0x00000000200001f0       0x50 ./touch_isr.o
+                0x00000000200001f0                decrease
+ .data.start    0x0000000020000240       0x50 ./touch_isr.o
+                0x0000000020000240                start
+ .data.plus     0x0000000020000290       0x50 ./touch_isr.o
+                0x0000000020000290                plus
+ .data.minus    0x00000000200002e0       0x50 ./touch_isr.o
+                0x00000000200002e0                minus
+ .data.move_slider_ch1
+                0x0000000020000330       0x5c ./touch_isr.o
+                0x0000000020000330                move_slider_ch1
+ .data.move_slider_ch2
+                0x000000002000038c       0x5c ./touch_isr.o
+                0x000000002000038c                move_slider_ch2
+ .data.pre_value
+                0x00000000200003e8        0x4 ./touch_isr.o
+                0x00000000200003e8                pre_value
+ .data.pre_value_ch2
+                0x00000000200003ec        0x4 ./touch_isr.o
+                0x00000000200003ec                pre_value_ch2
+ .data.g_iRandomSeed
+                0x00000000200003f0        0x4 ./ustdlib.o
+ .data._impure_ptr
+                0x00000000200003f4        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x00000000200003f4                _impure_ptr
+ .data.impure_data
+                0x00000000200003f8      0x428 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000820        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000820                __atexit_recursive_mutex
+ .data.g_sRoot  0x0000000020000824       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+                0x0000000020000824                g_sRoot
+                0x0000000020000844                . = ALIGN (0x4)
+                0x0000000020000844                SUT1_data = .
+                0x0000000020001844                . = (. + 0x1000)
+ *fill*         0x0000000020000844     0x1000 
+                0x0000000020001844                SUT2_data = .
+                0x0000000020002844                . = (. + 0x1000)
+ *fill*         0x0000000020001844     0x1000 
+                0x0000000020002844                __data_end__ = .
+
+.jcr            0x0000000020002844        0x4 load address 0x0000000000011c30
+ .jcr           0x0000000020002844        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .jcr           0x0000000020002844        0x4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.igot.plt       0x0000000020002848        0x0 load address 0x0000000000011c34
+ .igot.plt      0x0000000020002848        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+vtable          0x0000000020002c00      0x400 load address 0x0000000000011c34
+                [!provide]                        PROVIDE (__start_vtable, .)
+ vtable         0x0000000020002c00      0x400 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                [!provide]                        PROVIDE (__stop_vtable, .)
+
+.ARM.exidx      0x0000000000012034        0x8
+                0x0000000000012034                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000012034        0x8 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x000000000001203c                __exidx_end = .
+
+.ARM.extab      0x000000000001203c        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x000000000001203c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+
+.rel.dyn        0x000000000001203c        0x0
+ .rel.iplt      0x000000000001203c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x0000000020003000      0x538
+                0x0000000020003000                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x0000000020003000        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000020003000       0x1c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x000000002000301c        0x0 ./Kentec320x240x16_ssd2119_spi.o
+ .bss           0x000000002000301c        0x0 ./LCD.o
+ .bss           0x000000002000301c        0x0 ./LCD_stairs.o
+ .bss           0x000000002000301c        0x0 ./UART.o
+ .bss           0x000000002000301c        0x0 ./images.o
+ .bss           0x000000002000301c        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x000000002000301c        0x0 ./touch.o
+ .bss           0x000000002000301c        0x0 ./touch_isr.o
+ .bss           0x000000002000301c        0x0 ./ustdlib.o
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x000000002000301c        0x0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.bss.*)
+ .bss.print_left
+                0x000000002000301c        0x4 ./LCD.o
+                0x000000002000301c                print_left
+ .bss.print_left_ch2
+                0x0000000020003020        0x4 ./LCD.o
+                0x0000000020003020                print_left_ch2
+ .bss.prev_time_left
+                0x0000000020003024        0x4 ./LCD.o
+                0x0000000020003024                prev_time_left
+ .bss.prev_time_left_2
+                0x0000000020003028        0x4 ./LCD.o
+                0x0000000020003028                prev_time_left_2
+ .bss.get_string_flag
+                0x000000002000302c        0x1 ./UART.o
+                0x000000002000302c                get_string_flag
+ .bss.i         0x000000002000302d        0x1 ./UART.o
+                0x000000002000302d                i
+ *fill*         0x000000002000302e        0x2 
+ .bss.pui32Stack
+                0x0000000020003030      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss.g_ui32TSState
+                0x0000000020003230        0x4 ./touch.o
+ .bss.g_pfnTSHandler
+                0x0000000020003234        0x4 ./touch.o
+ .bss.g_ui8State
+                0x0000000020003238        0x1 ./touch.o
+ *fill*         0x0000000020003239        0x3 
+ .bss.g_pi16Samples
+                0x000000002000323c       0x10 ./touch.o
+ .bss.g_i8Index
+                0x000000002000324c        0x1 ./touch.o
+ *fill*         0x000000002000324d        0x3 
+ .bss.prev_print_left
+                0x0000000020003250        0x4 ./touch_isr.o
+                0x0000000020003250                prev_print_left
+ .bss.prev_print_left_ch2
+                0x0000000020003254        0x4 ./touch_isr.o
+                0x0000000020003254                prev_print_left_ch2
+ .bss.time_interval_ptr
+                0x0000000020003258        0x4 ./touch_isr.o
+                0x0000000020003258                time_interval_ptr
+ .bss.print_int_ptr
+                0x000000002000325c        0x1 ./touch_isr.o
+                0x000000002000325c                print_int_ptr
+ .bss.g_pui8OversampleFactor
+                0x000000002000325d        0x6 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+ *fill*         0x0000000020003263        0x1 
+ .bss.g_psGrLibDefaults
+                0x0000000020003264        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+ .bss.g_pui16LanguageTable
+                0x0000000020003268        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .bss.g_ui16NumLanguages
+                0x000000002000326c        0x2 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .bss.g_ui16NumStrings
+                0x000000002000326e        0x2 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .bss.g_pui8StringData
+                0x0000000020003270        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .bss.g_pui32StringTable
+                0x0000000020003274        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .bss.g_ui16Language
+                0x0000000020003278        0x2 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ *fill*         0x000000002000327a        0x2 
+ .bss.g_psPointerWidget
+                0x000000002000327c        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .bss.g_ui8MQMutex
+                0x0000000020003280        0x1 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ *fill*         0x0000000020003281        0x3 
+ .bss.g_ui32MQRead
+                0x0000000020003284        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .bss.g_psMQ    0x0000000020003288      0x140 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .bss.g_ui32MQWrite
+                0x00000000200033c8        0x4 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .bss.g_pui8Dictionary
+                0x00000000200033cc       0x20 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ *(COMMON)
+ COMMON         0x00000000200033ec       0x98 ./LCD.o
+                0x00000000200033ec                Rect_t2
+                0x00000000200033f4                Rect_t1
+                0x00000000200033fc                sRect
+                0x0000000020003404                RectL_ch2
+                0x000000002000340c                Rect_R
+                0x0000000020003414                sContext
+                0x0000000020003440                str_left
+                0x000000002000344c                str_time
+                0x0000000020003458                RectR_ch2
+                0x0000000020003460                Rect_M
+                0x0000000020003468                diff
+                0x000000002000346c                str_right
+                0x0000000020003478                Rect_L
+                0x0000000020003480                ui32SysClock
+ COMMON         0x0000000020003484       0x64 ./UART.o
+                0x0000000020003484                string
+ COMMON         0x00000000200034e8        0xa ./touch.o
+                0x00000000200034e8                g_i16TouchX
+                0x00000000200034ec                g_pi32ParmSet
+                0x00000000200034f0                g_i16TouchY
+ *fill*         0x00000000200034f2        0x2 
+ COMMON         0x00000000200034f4       0x20 ./touch_isr.o
+                0x00000000200034f4                Rect_ch2
+                0x00000000200034fc                Rect_TB2
+                0x0000000020003504                Rect_TB1
+                0x000000002000350c                Rect_ch1
+ COMMON         0x0000000020003514       0x21 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000020003514                __lock___atexit_recursive_mutex
+                0x0000000020003518                __lock___arc4random_mutex
+                0x000000002000351c                __lock___env_recursive_mutex
+                0x0000000020003520                __lock___sinit_recursive_mutex
+                0x0000000020003524                __lock___malloc_recursive_mutex
+                0x0000000020003528                __lock___at_quick_exit_mutex
+                0x000000002000352c                __lock___dd_hash_mutex
+                0x0000000020003530                __lock___tz_mutex
+                0x0000000020003534                __lock___sfp_recursive_mutex
+                0x0000000020003538                . = ALIGN (0x4)
+ *fill*         0x0000000020003535        0x3 
+                0x0000000020003538                __bss_end__ = .
+
+.heap           0x0000000020003538        0x0
+                0x0000000020003538                __heap_start__ = .
+                0x0000000020003538                end = __heap_start__
+                0x0000000020003538                _end = end
+                0x0000000020003538                __end = end
+ *(.heap)
+                0x0000000020003538                __heap_end__ = .
+                0x0000000020003538                __HeapLimit = __heap_end__
+
+.stack          0x0000000020003538        0x0
+                0x0000000020003538                _stack = .
+                0x0000000020003538                __stack = .
+ *(.stack)
+START GROUP
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a
+END GROUP
+LOAD /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a
+LOAD /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a
+START GROUP
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(Copy of LCD_Display.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x39 ./Kentec320x240x16_ssd2119_spi.o
+ .ARM.attributes
+                0x00000000000000af       0x39 ./LCD.o
+ .ARM.attributes
+                0x00000000000000e8       0x39 ./LCD_stairs.o
+ .ARM.attributes
+                0x0000000000000121       0x39 ./UART.o
+ .ARM.attributes
+                0x000000000000015a       0x39 ./images.o
+ .ARM.attributes
+                0x0000000000000193       0x39 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x00000000000001cc       0x39 ./touch.o
+ .ARM.attributes
+                0x0000000000000205       0x39 ./touch_isr.o
+ .ARM.attributes
+                0x000000000000023e       0x39 ./ustdlib.o
+ .ARM.attributes
+                0x0000000000000277       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000002ab       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000002df       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000313       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+ .ARM.attributes
+                0x0000000000000347       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000037b       0x20 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000000000000039b       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+ .ARM.attributes
+                0x00000000000003cf       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000403       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000437       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000000000000046b       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000000000000049f       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000004d3       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x0000000000000507       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x000000000000053b       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+ .ARM.attributes
+                0x0000000000000576       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+ .ARM.attributes
+                0x00000000000005b1       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x00000000000005ec       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000000000000627       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .ARM.attributes
+                0x0000000000000662       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x000000000000069d       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .ARM.attributes
+                0x00000000000006d8       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x0000000000000713       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x000000000000074e       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+ .ARM.attributes
+                0x0000000000000789       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+ .ARM.attributes
+                0x00000000000007c4       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+ .ARM.attributes
+                0x00000000000007ff       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+ .ARM.attributes
+                0x000000000000083a       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+ .ARM.attributes
+                0x0000000000000875       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+ .ARM.attributes
+                0x00000000000008b0       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .ARM.attributes
+                0x00000000000008eb       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+ .ARM.attributes
+                0x0000000000000926       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .ARM.attributes
+                0x0000000000000961       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .ARM.attributes
+                0x000000000000099c       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .ARM.attributes
+                0x00000000000009d7       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+ .ARM.attributes
+                0x0000000000000a12       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+ .ARM.attributes
+                0x0000000000000a4d       0x3b /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+ .ARM.attributes
+                0x0000000000000a88       0x22 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000aaa       0x22 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000acc       0x22 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000aee       0x22 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000b10       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000b44       0x22 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x0000000000000000       0xef
+ .comment       0x0000000000000000       0x7f ./Kentec320x240x16_ssd2119_spi.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 ./LCD.o
+ .comment       0x000000000000007f       0x80 ./LCD_stairs.o
+ .comment       0x000000000000007f       0x80 ./UART.o
+ .comment       0x000000000000007f       0x80 ./images.o
+ .comment       0x000000000000007f       0x80 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x000000000000007f       0x80 ./touch.o
+ .comment       0x000000000000007f       0x80 ./touch_isr.o
+ .comment       0x000000000000007f       0x80 ./ustdlib.o
+ .comment       0x000000000000007f       0x70 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(adc.o)
+                                         0x71 (size before relaxing)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(fpu.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(ssi.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(timer.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(context.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm12.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm14.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm16.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(fontcm20.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(line.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(pushbutton.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(rectangle.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(slider.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(string.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(widget.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(charmap.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(circle.o)
+ .comment       0x00000000000000ef       0x71 /home/kaviya/ti/TivaWare_C_Series-2.1.4.178/grlib/gcc/libgr.a(image.o)
+
+.debug_info     0x0000000000000000     0xa2e3
+ .debug_info    0x0000000000000000      0xf47 ./Kentec320x240x16_ssd2119_spi.o
+ .debug_info    0x0000000000000f47     0x2092 ./LCD.o
+ .debug_info    0x0000000000002fd9     0x1b7f ./LCD_stairs.o
+ .debug_info    0x0000000000004b58      0xcf9 ./UART.o
+ .debug_info    0x0000000000005851      0xaea ./images.o
+ .debug_info    0x000000000000633b      0x194 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_info    0x00000000000064cf      0xdf9 ./touch.o
+ .debug_info    0x00000000000072c8     0x1fd9 ./touch_isr.o
+ .debug_info    0x00000000000092a1     0x1042 ./ustdlib.o
+
+.debug_abbrev   0x0000000000000000     0x112f
+ .debug_abbrev  0x0000000000000000      0x176 ./Kentec320x240x16_ssd2119_spi.o
+ .debug_abbrev  0x0000000000000176      0x296 ./LCD.o
+ .debug_abbrev  0x000000000000040c      0x251 ./LCD_stairs.o
+ .debug_abbrev  0x000000000000065d      0x2bc ./UART.o
+ .debug_abbrev  0x0000000000000919       0xad ./images.o
+ .debug_abbrev  0x00000000000009c6       0xca ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_abbrev  0x0000000000000a90      0x14a ./touch.o
+ .debug_abbrev  0x0000000000000bda      0x28d ./touch_isr.o
+ .debug_abbrev  0x0000000000000e67      0x2c8 ./ustdlib.o
+
+.debug_aranges  0x0000000000000000      0x2f8
+ .debug_aranges
+                0x0000000000000000       0x80 ./Kentec320x240x16_ssd2119_spi.o
+ .debug_aranges
+                0x0000000000000080       0x58 ./LCD.o
+ .debug_aranges
+                0x00000000000000d8       0x30 ./LCD_stairs.o
+ .debug_aranges
+                0x0000000000000108       0x78 ./UART.o
+ .debug_aranges
+                0x0000000000000180       0x18 ./images.o
+ .debug_aranges
+                0x0000000000000198       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_aranges
+                0x00000000000001d0       0x38 ./touch.o
+ .debug_aranges
+                0x0000000000000208       0x50 ./touch_isr.o
+ .debug_aranges
+                0x0000000000000258       0xa0 ./ustdlib.o
+
+.debug_ranges   0x0000000000000000      0x260
+ .debug_ranges  0x0000000000000000       0x70 ./Kentec320x240x16_ssd2119_spi.o
+ .debug_ranges  0x0000000000000070       0x48 ./LCD.o
+ .debug_ranges  0x00000000000000b8       0x20 ./LCD_stairs.o
+ .debug_ranges  0x00000000000000d8       0x68 ./UART.o
+ .debug_ranges  0x0000000000000140       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_ranges  0x0000000000000168       0x28 ./touch.o
+ .debug_ranges  0x0000000000000190       0x40 ./touch_isr.o
+ .debug_ranges  0x00000000000001d0       0x90 ./ustdlib.o
+
+.debug_line     0x0000000000000000     0x1dae
+ .debug_line    0x0000000000000000      0x368 ./Kentec320x240x16_ssd2119_spi.o
+ .debug_line    0x0000000000000368      0x42c ./LCD.o
+ .debug_line    0x0000000000000794      0x372 ./LCD_stairs.o
+ .debug_line    0x0000000000000b06      0x3e9 ./UART.o
+ .debug_line    0x0000000000000eef      0x152 ./images.o
+ .debug_line    0x0000000000001041      0x177 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_line    0x00000000000011b8      0x278 ./touch.o
+ .debug_line    0x0000000000001430      0x47d ./touch_isr.o
+ .debug_line    0x00000000000018ad      0x501 ./ustdlib.o
+
+.debug_str      0x0000000000000000     0x1d63
+ .debug_str     0x0000000000000000      0xd05 ./Kentec320x240x16_ssd2119_spi.o
+                                        0xd7a (size before relaxing)
+ .debug_str     0x0000000000000d05      0x7eb ./LCD.o
+                                       0x13b9 (size before relaxing)
+ .debug_str     0x00000000000014f0      0x18d ./LCD_stairs.o
+                                       0x13e5 (size before relaxing)
+ .debug_str     0x000000000000167d      0x16f ./UART.o
+                                        0x787 (size before relaxing)
+ .debug_str     0x00000000000017ec       0xbf ./images.o
+                                        0xb06 (size before relaxing)
+ .debug_str     0x00000000000018ab       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                        0x264 (size before relaxing)
+ .debug_str     0x0000000000001966       0xde ./touch.o
+                                        0xcb3 (size before relaxing)
+ .debug_str     0x0000000000001a44      0x182 ./touch_isr.o
+                                       0x160a (size before relaxing)
+ .debug_str     0x0000000000001bc6      0x19d ./ustdlib.o
+                                        0x7e4 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xf38
+ .debug_frame   0x0000000000000000      0x1e4 ./Kentec320x240x16_ssd2119_spi.o
+ .debug_frame   0x00000000000001e4      0x150 ./LCD.o
+ .debug_frame   0x0000000000000334       0x70 ./LCD_stairs.o
+ .debug_frame   0x00000000000003a4      0x1cc ./UART.o
+ .debug_frame   0x0000000000000570       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x00000000000005ec       0xa0 ./touch.o
+ .debug_frame   0x000000000000068c      0x11c ./touch_isr.o
+ .debug_frame   0x00000000000007a8      0x2bc ./ustdlib.o
+ .debug_frame   0x0000000000000a64       0x28 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000a8c       0x2c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000ab8       0x3c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-itoa.o)
+ .debug_frame   0x0000000000000af4       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000b28       0x4c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-utoa.o)
+ .debug_frame   0x0000000000000b74       0x5c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000bd0       0x20 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000bf0       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000c24       0xb0 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000cd4       0x34 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000d08       0x20 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .debug_frame   0x0000000000000d28       0x2c /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .debug_frame   0x0000000000000d54       0xac /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000e00       0x50 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000e50       0xc4 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x0000000000000f14       0x24 /home/kaviya/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)

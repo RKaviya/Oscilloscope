@@ -1,0 +1,1 @@
+"./Kentec320x240x16_ssd2119_spi.o" "./LCD.o" "./LCD_stairs.o" "./UART.o" "./images.o" "./tm4c123gh6pm_startup_ccs_gcc.o" "./touch.o" "./touch_isr.o" "./ustdlib.o" -Wl,-T"../tm4c123gh6pm.lds" -Wl,--start-group -lc -lrdimon -Wl,--end-group 
